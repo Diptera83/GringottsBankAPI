@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GringottsBankAPI2", "GringottsBankAPI2.csproj", "{312A755F-5454-440B-A59E-D42C9A70140F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{312A755F-5454-440B-A59E-D42C9A70140F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312A755F-5454-440B-A59E-D42C9A70140F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312A755F-5454-440B-A59E-D42C9A70140F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312A755F-5454-440B-A59E-D42C9A70140F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEAA9EBF-C513-4416-B0CC-0AC1836120C5}
+	EndGlobalSection
+EndGlobal
